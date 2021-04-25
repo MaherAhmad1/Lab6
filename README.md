@@ -14,3 +14,9 @@ You should secure your browser so people do not gain remote access to your compu
 
 # Internet Programming
 Tim Berners-Lee is the leader of W3C which is the World Wide Web Consortium and he created it because he wanted to bring diverse stake holders together to develop high quality standards of web technologies. I am going to choose the web of devices standard and explain why it is important. Web of devices is important becuase instead of having to go into your office, a library, or back home to use a computer you are now able to do most if not all of your work and internet needs on a mobile device such as a cell phone or laptop which has completely changed how the world works nowadays because of the instant access you can get to anything from anywhere. 
+
+### HTML and CSS 
+HTML is the standard markup language for documents to be displayed on websites. CSS is the control you get over the color, font, the size of text, the spacing between elements, how elements are positioned and laid out, what background images or background colors are to be used, different displays for different devices and screen sizes.
+
+### HTML and XML 
+XML differs from HTML because XML was made to carry data with a focus on what the data is, while HTML was made to display data with a focus on how it looks. Lastly XML tags are not predefined like HTML tags.
