@@ -11,3 +11,6 @@ Hypertext Transfer Protocol (HTTP) is a protocol that is used for viewing web pa
 
 ### Securing Your Web Browser
 You should secure your browser so people do not gain remote access to your computer or because some sites are not safe and will install spyware onto your hardware without you knowing. One risk is ActiveX which gives the user the ability to use parts of an applications or the whole app to be utilized by a website. The risk of using ActiveX is that it has a very long history of being plagued with viruses and vulnerabilities and will likely continue to because hackers can gain remote acces to your system through ActiveX and can then proceed to do whatever they want. 
+
+# Internet Programming
+
