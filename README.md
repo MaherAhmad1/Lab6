@@ -20,3 +20,6 @@ HTML is the standard markup language for documents to be displayed on websites. 
 
 ### HTML and XML 
 XML differs from HTML because XML was made to carry data with a focus on what the data is, while HTML was made to display data with a focus on how it looks. Lastly XML tags are not predefined like HTML tags.
+
+# Components of a URL
+A scheme is the type of address that a browser will recognize such as HTTP OR HTTPS. A domain is the compant that runs the website such as Amazon or Ebay. A top level domain is the end part after the domain such as com, gov, or edu which all explain what they are for. A default page is the most common URL that can be typed in to find a certain website. A parameter is information to load the correct web page. Laslty and anchor is a hashtag the directs you to a specific part of the main page.
